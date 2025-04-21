@@ -12,9 +12,9 @@
 
 *MENTOR*: NEELA SANTOSH
 
-**Building and Visualizing a Decision Tree
+***Building and Visualizing a Decision Tree***
 
-🛠️ *Tools and Environment*
+🛠️ **Tools and Environment**
 To begin, I set up my development environment:
 
 <b>Editor</b>: I utilized Google Colab, which allowed me to write and execute Python code in an interactive manner. Its cell-based structure made it easier to test and debug code incrementally.
@@ -29,7 +29,7 @@ matplotlib: For visualizing the decision tree.
 
 pandas and numpy: For data manipulation and numerical operations.
 
-📚 *Learning Resources* 
+📚 **Learning Resources**
 Being a novice, I sought guidance from various resources:
 
 DataCamp's Tutorial: The Decision Tree Classification in Python Tutorial provided a comprehensive introduction to decision trees, including their implementation using scikit-learn.
@@ -38,10 +38,10 @@ Scikit-learn Documentation: The official scikit-learn documentation offered deta
 
 MLJAR Blog: The article on Visualizing Decision Trees introduced me to different ways of visualizing decision trees, enhancing my understanding of the model's decision-making process.
 
-📊 *Dataset Selection*
+📊 **Dataset Selection**
 For this project, I chose the Iris dataset, a classic dataset in machine learning that contains measurements of iris flowers from three different species. It was readily available in scikit-learn's datasets module, making it convenient for beginners.
 
-🔍 *Insights and Learnings*
+🔍 **Insights and Learnings**
 Through this project, I gained several insights:
 
 Interpretable Models: Decision trees are inherently interpretable, allowing one to trace the decision path for any prediction.
@@ -50,7 +50,7 @@ Overfitting: I learned that decision trees can easily overfit the training data,
 
 Feature Importance: The model provided insights into which features were most influential in making predictions.
 
-🚀 *Future Directions*
+🚀 **Future Directions**
 Building upon this foundation, I plan to:
 
 Explore Advanced Models: Delve into ensemble methods like Random Forests and Gradient Boosting Machines to improve predictive performance.
